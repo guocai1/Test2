@@ -47,6 +47,8 @@ BOOL CGitTestDlg::OnInitDialog()
 
 	//added one line 2018_10_02
 	int aa=0;
+	//added another line 2018_10_02
+	int bb=0;
 
 	// TODO: Add extra initialization here
 
